@@ -75,7 +75,7 @@ The project followed a **Human-Centred AI** approach with elements of **particip
 
 Finalised prototype interface showing various screens. Challenge mode is an optional
 interface available only in level 3 (see Report for more info.):
-![](Appendix:%20Exta%20info/Final%20Prototype_diagram.png)
+![DebateAble prototype screen flow](Appendix:%20Exta%20info/Final%20Prototype_diagram.png)
 
 ## 📊 User Study & Results
 
